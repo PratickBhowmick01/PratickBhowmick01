@@ -1,3 +1,5 @@
+###### Hi there.
+
 - 👋 Hi, I am Pratick Bhowmick
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data structures
